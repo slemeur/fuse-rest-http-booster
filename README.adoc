@@ -7,7 +7,7 @@ The REST API Level 0 mission shows how to map business operations to a remote pr
 
 == Developer Workspace
 
-image::https://che.openshift.io/factory/resources/factory-contribute.svg[link="https://che.openshift.io/f?url=https://github.com/slemeur/fuse-rest-http-booster"]
+image::https://che.openshift.io/factory/resources/factory-contribute.svg[link="https://che.openshift.io/f?url=https://raw.githubusercontent.com/slemeur/fuse-rest-http-booster/master/devfile.yaml"]
 
 This CodeReady Workspaces Factory can also be invoked with any host:
 {hostURL}/f?url=https://github.com/slemeur/fuse-rest-http-booster
